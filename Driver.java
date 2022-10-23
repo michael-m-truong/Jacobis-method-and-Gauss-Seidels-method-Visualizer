@@ -118,7 +118,6 @@ public class Driver {
         double prevL2Norm = 0;
 		int n = x.length;
 		double xTemp[] = new double[n];
-        System.out.println(x[0]);
 		for(int i=0; i<n; i++) 
 			xTemp[i] = 0;
 		
